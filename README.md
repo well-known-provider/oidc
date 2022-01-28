@@ -1,4 +1,4 @@
-# oidc
+# OpenID Connect Provider
 Well Known OpenID Connect Providers
 
 ### google
