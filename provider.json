@@ -1,0 +1,50 @@
+{
+  "google": {
+    "issuer": "https://accounts.google.com/.well-known/openid-configuration/",
+    "docs": "https://cloud.google.com/identity-platform/docs/web/oidc"
+  },
+  "apple": {
+    "issuer": "https://appleid.apple.com/.well-known/openid-configuration",
+    "docs": "https://developer.apple.com/sign-in-with-apple/resources/"
+  },
+  "microsoft": {
+    "issuer": "https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration/",
+    "docs": "https://docs.microsoft.com/en-us/powerapps/maker/portals/configure/configure-openid-provider"
+  },
+  "line": {
+    "issuer": "https://access.line.me/.well-known/openid-configuration/",
+    "docs": "https://developers.line.biz/en/docs/line-login/integrate-line-login/"
+  },
+  "yahoo.co.jp": {
+    "issuer": "https://auth.login.yahoo.co.jp/yconnect/v2/.well-known/openid-configuration/",
+    "docs": "https://developer.yahoo.co.jp/yconnect/v2/"
+  },
+  "facebook": {
+    "issuer": "https://www.facebook.com/.well-known/openid-configuration/",
+    "docs": "https://developers.facebook.com/docs/facebook-login/limited-login/token/"
+  },
+  "slack": {
+    "issuer": "https://slack.com/.well-known/openid-configuration",
+    "docs": "https://api.slack.com/authentication/sign-in-with-slack"
+  },
+  "paypal": {
+    "issuer": "https://www.paypalobjects.com/.well-known/openid-configuration",
+    "docs": "https://developer.paypal.com/docs/log-in-with-paypal/"
+  },
+  "gitlab": {
+    "issuer": "https://gitlab.com/.well-known/openid-configuration",
+    "docs": "https://docs.gitlab.com/ee/integration/openid_connect_provider.html"
+  },
+  "salesforce": {
+    "issuer": "https://login.salesforce.com/.well-known/",
+    "docs": "https://help.salesforce.com/s/articleView?id=remoteaccess_using_openid_discovery_endpoint.htm&type=5&language=en_US"
+  },
+  "twitch": {
+    "issuer": "https://id.twitch.tv/oauth2/.well-known/openid-configuration",
+    "docs": "https://dev.twitch.tv/docs/authentication/getting-tokens-oidc"
+  },
+  "yahoo.com": {
+    "issuer": "https://api.login.yahoo.com/.well-known/openid-configuration",
+    "docs": "https://developer.yahoo.com/oauth2/guide/openid_connect/"
+  }
+}
